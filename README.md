@@ -2,6 +2,9 @@
 
 This project implements Linear Regression from scratch using NumPy and gradient descent, applied to the Insurance Charges dataset. The results are compared with the scikit-learn implementation to validate correctness and performance.
 
+The Data is from Keggle:
+https://www.kaggle.com/datasets/thedevastator/prediction-of-insurance-charges-using-age-gender
+
 ## 📊 Features
 - Data preprocessing (encoding, scaling, train-test split)
 - Linear Regression implemented from scratch
@@ -19,5 +22,3 @@ This project implements Linear Regression from scratch using NumPy and gradient 
 
 ## 🚀 Results
 The custom implementation achieves similar performance to scikit-learn, demonstrating a correct and effective implementation of linear regression.
-
-## 📂 Project Structure
